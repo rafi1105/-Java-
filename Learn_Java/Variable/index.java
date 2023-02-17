@@ -1,3 +1,5 @@
+package Variable;
+
 // int  integer nubmer  { 4,6}
 // float fracment number { 4.56}
 // char character { 'a','5'}
@@ -12,7 +14,7 @@ public class index {
         System.out.println(x);
         System.out.println("OR");
         // type 2 print integer
-        System.out.println("Integer nubmer : " + x);
+        System.out.println("Integer number : " + x);
         System.out.println(c);
         // string now !!
         String firstName = "rafi";
