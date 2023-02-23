@@ -25,4 +25,4 @@ public class index {
         System.out.println("Sum is : " + (x+y));
     }
 
-}
+}                                

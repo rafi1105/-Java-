@@ -1,3 +1,4 @@
+
 public class inex{
     public static void main (String[] args)
     {
