@@ -485,7 +485,7 @@ public class NewJFrame extends javax.swing.JFrame {
         {
             ans = num1/num2;
         }
-        display.setText(ans);
+        display.setText(""+ans);
         operator=null;
         
     }//GEN-LAST:event_equalActionPerformed
