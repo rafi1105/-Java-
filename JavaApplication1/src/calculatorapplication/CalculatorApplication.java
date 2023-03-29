@@ -1,14 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package calculatorapplication;
 import javax.swing.*;
 import java.awt.*;
-/**
- *
- * @author RAFI KABIR
- */
+
 public class CalculatorApplication {
     JFrame frame = new JFrame ("Calculator");
     // constucter 
