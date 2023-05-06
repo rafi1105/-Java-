@@ -16,5 +16,6 @@ class test{
         test obj = new test(); 
         obj.method(a,b);
         System.out.println(sum);
+        System.out.println(c);
     }
 }

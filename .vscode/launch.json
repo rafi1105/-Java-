@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "StudentExample",
+            "request": "launch",
+            "mainClass": "Array.StudentExample",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "Array.array1",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "ConfirmDialog",
+            "request": "launch",
+            "mainClass": "ConfirmDialog",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "InputDialog1",
+            "request": "launch",
+            "mainClass": "InputDialog1",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "Variable.index",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "messageDialog1",
+            "request": "launch",
+            "mainClass": "messageDialog1",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "messageDialog2",
+            "request": "launch",
+            "mainClass": "messageDialog2",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "index(1)",
+            "request": "launch",
+            "mainClass": "string.index",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "-Java-_2fbc8e23"
+        }
+    ]
+}
