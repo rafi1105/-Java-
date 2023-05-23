@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "overriding",
+            "request": "launch",
+            "mainClass": "method_overriding.overriding",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
