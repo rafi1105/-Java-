@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
+            "name": "messageDialog2",
+            "request": "launch",
+            "mainClass": "swing.messageDialog2",
+            "projectName": "-Java-_2fbc8e23"
+        },
+        {
+            "type": "java",
             "name": "B",
             "request": "launch",
             "mainClass": "B",

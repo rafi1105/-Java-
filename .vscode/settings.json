@@ -3,5 +3,6 @@
     "java.project.sourcePaths": [
         "Learn_Java",
         "swing"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
