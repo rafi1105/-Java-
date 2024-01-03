@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KruskalsMST",
+            "request": "launch",
+            "mainClass": "KruskalsMST",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "learn1",
+            "request": "launch",
+            "mainClass": "learn1",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "run2",
+            "request": "launch",
+            "mainClass": "run2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "run",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Linklist_fun",
+            "request": "launch",
+            "mainClass": "Linklist_fun",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "LinkList",
+            "request": "launch",
+            "mainClass": "LinkList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "cycle",
+            "request": "launch",
+            "mainClass": "cycle",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AdjacencyList",
+            "request": "launch",
+            "mainClass": "AdjacencyList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AdjaceyList",
+            "request": "launch",
+            "mainClass": "AdjaceyList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
